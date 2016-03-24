@@ -1,0 +1,107 @@
+{
+  "windows": {
+    "main": {
+      "x": 0,
+      "y": 23,
+      "width": 1280,
+      "height": 728,
+      "layout": {
+        "docks": [
+          {
+            "docks": [
+              {
+                "active": 0,
+                "height": 317,
+                "panels": [
+                  "hierarchy.panel"
+                ],
+                "type": "panel",
+                "width": 204
+              },
+              {
+                "active": 0,
+                "height": 317,
+                "panels": [
+                  "assets.panel"
+                ],
+                "type": "panel",
+                "width": 204
+              }
+            ],
+            "height": 637,
+            "row": false,
+            "type": "dock",
+            "width": 204
+          },
+          {
+            "active": 0,
+            "height": 637,
+            "panels": [
+              "inspector.panel"
+            ],
+            "type": "panel",
+            "width": 300
+          },
+          {
+            "docks": [
+              {
+                "active": 0,
+                "height": 326,
+                "panels": [
+                  "scene.panel"
+                ],
+                "type": "panel",
+                "width": 764
+              },
+              {
+                "active": 0,
+                "height": 308,
+                "panels": [
+                  "console.panel",
+                  "timeline.panel"
+                ],
+                "type": "panel",
+                "width": 764
+              }
+            ],
+            "height": 637,
+            "row": false,
+            "type": "dock",
+            "width": 764
+          }
+        ],
+        "no-collapse": true,
+        "row": true,
+        "type": "dock"
+      }
+    },
+    "editor-window-1458727041866": {
+      "x": 361,
+      "y": 27,
+      "width": 500,
+      "height": 722,
+      "layout": {
+        "docks": [
+          {
+            "active": 0,
+            "height": 700,
+            "panels": [
+              "builder.panel"
+            ],
+            "type": "panel",
+            "width": 500
+          }
+        ],
+        "no-collapse": true,
+        "row": false,
+        "type": "dock"
+      }
+    },
+    "worker": {
+      "x": 440,
+      "y": 228,
+      "width": 400,
+      "height": 300
+    }
+  }
+}
